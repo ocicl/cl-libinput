@@ -1,0 +1,10 @@
+* cl-libinput
+
+Common Lisp wrapper for libinput
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/malcolmstill/cl-libinput.git   |
+| commit  | 098e0dd  |
+| systems | cl-libinput |
+|---------+-------------------------------------------|
+
